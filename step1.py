@@ -1,6 +1,6 @@
 #Author: Coleman Johnston
 #Date: 30 September 2016
-#
+#Description: Code2040 API challenge step 1.   
 import requests 
 import json
 
