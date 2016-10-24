@@ -5,7 +5,7 @@ import requests
 import json
 
 def main():
-    api_token = #token
+    api_token = # Put API Token here
     gitHub_repo = "https://github.com/ColemanJohnston/Code2040_API_Challenge.git"
     url = "http://challenge.code2040.org/api/register"
 

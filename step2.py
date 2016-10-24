@@ -5,7 +5,7 @@ import requests
 import json
 
 def main():
-    token = #put token here
+    token = # Put API Token here
     repo = "https://github.com/ColemanJohnston/Code2040_API_Challenge.git"
     url = "http://challenge.code2040.org/api/reverse" 
 
